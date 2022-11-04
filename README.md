@@ -1,5 +1,6 @@
 # CP77-ModSettings-Translator
 [![Support Me on Ko-fi](https://i.imgur.com/7Cm07AZ.png)](https://ko-fi.com/siriusbeck)
+
 Simple tool to make the translation of mods that use ModSettings as little manual as possible, I'm still working on a set of tools for those who create mods for Cyberpunk 2077 but due to lack of time it will take a while to come out a usable version .
 
 Unfortunately I didn't find any way to use ArchiveXL's localization system or Codeware's (which by the way are amazing) together with ModSettings, because it's not possible to pass a variable as one of the `@runtimeProperty` parameters in redscript, which is the way ModSettings works to add items to your mod's menu.
