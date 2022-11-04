@@ -29,7 +29,7 @@ class Translator():
     def RewriteMod(self):
         newModFileDir = p.join(self.modFileDir, 'Localization', self.jsonFile['lang'])
         newModFilePath = p.join(newModFileDir, self.modFileName)
-        cmd(f'md {newModFileDir}')
+        cmd(f'md "{newModFileDir}"')
         with open(newModFilePath, 'w', encoding='utf-8') as file:
             file.write(self.modFile)
 
