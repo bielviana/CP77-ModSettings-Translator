@@ -1,4 +1,4 @@
-# CP77-ModSettings-Translator
+# CP77 - ModSettings Translator
 [![Support Me on Ko-fi](https://i.imgur.com/7Cm07AZ.png)](https://ko-fi.com/siriusbeck)
 
 Simple tool to make the translation of mods that use ModSettings as little manual as possible, I'm still working on a set of tools for those who create mods for Cyberpunk 2077 but due to lack of time it will take a while to come out a usable version .
