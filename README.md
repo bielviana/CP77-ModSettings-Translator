@@ -1,6 +1,6 @@
 # CP77 - ModSettings Translator
 [![Support Me on Ko-fi](https://i.imgur.com/7Cm07AZ.png)](https://ko-fi.com/siriusbeck)
-
+<br><br>
 Simple tool to make the translation of mods that use ModSettings as little manual as possible, I'm still working on a set of tools for those who create mods for Cyberpunk 2077 but due to lack of time it will take a while to come out a usable version .
 
 Unfortunately I didn't find any way to use ArchiveXL's localization system or Codeware's (which by the way are amazing) together with ModSettings, because it's not possible to pass a variable as one of the `@runtimeProperty` parameters in redscript, which is the way ModSettings works to add items to your mod's menu.
@@ -122,3 +122,9 @@ Using this tool, it will still be necessary to install your mod + the translatio
 
 
 One tip I gave is that when you post your mod on the Nexus or elsewhere, make the `en-us.json` file available separately so people can download, translate, and re-upload it to you, so you can have your mod in several languages ​​without having to translate it yourself to each existing language. Remember that the mod community is usually united for everyone's fun so don't be different haha, whenever you can, make life easier for other modders just like other modders make yours easier ;), and whenever you use the content from another mod whose permission has been given, leave the credits to the current creator, it's free and a great behavior towards the community that always strives MUCH MORE than the game developers themselves for everyone to always have good hours of fun.
+
+## Links
+- **[Discord Server](https://discord.gg/pVKQ7vzmKE)**
+- **[Instagram](https://instagram.com)**
+- **[Twitter](https://twitter.com/_katiorro)**
+- **[NexusMods](https://www.nexusmods.com/users/73453593)**
